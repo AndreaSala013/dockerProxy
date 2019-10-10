@@ -1,0 +1,4 @@
+it\andrea\dockerProxy\model\Constants.class
+it\andrea\dockerProxy\DockerProxyController.class
+it\andrea\dockerProxy\DockerProxyMain.class
+it\andrea\dockerProxy\model\ProxyResponse.class
