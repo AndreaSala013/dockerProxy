@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e49fbf3-523d-4685-98bf-ace31aeba023" name="Default Changelist" comment="" />
+    <list default="true" id="1e49fbf3-523d-4685-98bf-ace31aeba023" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/DockerProxyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/DockerProxyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/DockerProxyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/DockerProxyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/model/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/model/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/DockerProxyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/DockerProxyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/DockerProxyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/DockerProxyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/model/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/model/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/model/ProxyResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/andrea/dockerProxy/model/ProxyResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerProxy.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/dockerProxy.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerProxy.war.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/dockerProxy.war.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/DockerProxyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/DockerProxyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/DockerProxyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/DockerProxyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/model/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/model/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/model/ProxyResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/classes/it/andrea/dockerProxy/model/ProxyResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerProxy/WEB-INF/lib/httpclient-4.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +48,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -44,7 +73,13 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/dockerProxy.war" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ASEng\MyGitProject\dockerProxy\src\main" />
+      <recent name="C:\ASEng\MyGitProject\dockerProxy\src\main\webapp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,7 +93,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.411">
+  <component name="RunManager" selected="Remote.docker">
+    <configuration name="docker" type="Remote">
+      <module name="dockerProxy" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8000" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="DockerProxyMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dockerProxy" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="it.andrea.dockerProxy.DockerProxyMain" />
@@ -205,6 +254,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Remote.docker" />
       <item itemvalue="Spring Boot.DockerProxyMain" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.411" />
     </list>
@@ -220,24 +270,43 @@
       <option name="presentableId" value="Default" />
       <updated>1570716228647</updated>
       <workItem from="1570716231143" duration="3654000" />
+      <workItem from="1571217780982" duration="1869000" />
+      <workItem from="1571221257427" duration="169000" />
+      <workItem from="1571221457214" duration="3353000" />
+      <workItem from="1571233049123" duration="218000" />
+      <workItem from="1571303279006" duration="3251000" />
+      <workItem from="1571323270033" duration="255000" />
+      <workItem from="1571327792886" duration="167000" />
+      <workItem from="1571402199583" duration="3178000" />
+      <workItem from="1571645689818" duration="10413000" />
+      <workItem from="1571821577622" duration="5122000" />
+      <workItem from="1571909061331" duration="1227000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/DockerProxyController.java</url>
-          <line>34</line>
+          <line>40</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/it/andrea/dockerProxy/DockerProxyController.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
