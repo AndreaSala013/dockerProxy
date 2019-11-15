@@ -1,10 +1,10 @@
 package it.andrea.dockerProxy.model;
 
 public class Constants {
-    //url dastan
-    public static final String PORTAINER_BASE_URL = "http://app.dastan.eng.it:9000/";
-    //url locale docker
-    //public static final String PORTAINER_BASE_URL = "http://portainer:9000/";
+    //url dastan da locale
+    //public static final String PORTAINER_BASE_URL = "http://app.dastan.eng.it:9000/";
+    //url dastan da dastan
+    public static final String PORTAINER_BASE_URL = "http://portainer:9000/";
     //url locale
     //public static final String PORTAINER_BASE_URL = "http://localhost:9000/";
     public static final String PORTAINER_AUTH_URL = PORTAINER_BASE_URL + "api/auth";
